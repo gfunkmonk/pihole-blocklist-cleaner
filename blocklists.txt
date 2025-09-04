@@ -1,8 +1,6 @@
-https://urlhaus.abuse.ch/downloads/hostfile
 https://raw.githubusercontent.com/CubeBeveled/pihole-allowlist/refs/heads/main/adblock/facebook%2C%20facebook%20messenger.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://raw.githack.com/gfunkmonk/hosts/refs/heads/master/hosts.txt
-https://v.firebog.net/hosts/RPiList-Malware.txt
+https://raw.githubusercontent.com/gfunkmonk/hosts/refs/heads/master/hosts.txt
 https://raw.githack.com/IcedComputer/Personal-Pi-Hole-configs/refs/heads/master/Block_Lists/adHosts.blocklist
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
@@ -24,9 +22,8 @@ https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 https://raw.githubusercontent.com/doadin/PiHole-Collected-List/refs/heads/main/openphish_hosts.txt
 https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://abpvn.com/android/abpvn.txt
-https://github.com/shriman-dev/dns-blocklist/raw/refs/heads/main/domains.d/domains00
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/7ads.txt
 https://asc.hk/adplus.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt
@@ -50,15 +47,8 @@ https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/master/SpotifyBlocklist.t
 https://adaway.org/hosts.txt
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://github.com/XionKzn/PiHole-Lists/raw/refs/heads/master/PiHole/Archive/Yahoo_Ad_Servers.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-4.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-5.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-6.txt
-https://big.oisd.nl
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-7.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-8.txt
 https://github.com/vincentkenny01/spotblock/raw/master/spotify
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-9.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
@@ -73,9 +63,6 @@ https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtube
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
 https://raw.githubusercontent.com/LopezMazu/youTube_ads_4_pi-hole/patch-1/crowed_list.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-https://raw.githack.com/jerryn70/GoodbyeAds/refs/heads/master/Core/YouTube/YoutubeAdblock-1.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-2.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Core/YouTube/YoutubeAdblock-3.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hosts.tweedge.net/malicious.txt
