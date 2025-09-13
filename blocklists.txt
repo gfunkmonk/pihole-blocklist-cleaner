@@ -60,7 +60,6 @@ https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtube
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
 https://raw.githubusercontent.com/LopezMazu/youTube_ads_4_pi-hole/patch-1/crowed_list.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-https://v.firebog.net/hosts/AdguardDNS.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hosts.tweedge.net/malicious.txt
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Win10Telemetry
@@ -75,11 +74,11 @@ https://github.com/nickspaargaren/no-google/raw/refs/heads/master/categories/dns
 https://github.com/vincentkenny01/spotblock/raw/refs/heads/master/spotify
 https://github.com/vincentkenny01/spotblock/raw/refs/heads/master/spotify-26052025
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole-mixed.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/hagezi/pro.fork.txt
-https://github.com/NoGitHubForYou/yafp/raw/refs/heads/main/domains_malicious
-https://github.com/AlexRabbit/ADios/raw/master/PIHOLE/hosts
+https://raw.githack.com/NoGitHubForYou/yafp/refs/heads/main/domains_malicious
+https://raw.githack.com/AlexRabbit/ADios/refs/heads/master/PIHOLE/hosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.tx
-
+https://raw.githack.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
