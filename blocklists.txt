@@ -76,3 +76,10 @@ https://github.com/vincentkenny01/spotblock/raw/refs/heads/master/spotify
 https://github.com/vincentkenny01/spotblock/raw/refs/heads/master/spotify-26052025
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole-mixed.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/hagezi/pro.fork.txt
+https://github.com/NoGitHubForYou/yafp/raw/refs/heads/main/domains_malicious
+https://github.com/AlexRabbit/ADios/raw/master/PIHOLE/hosts
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.tx
+
