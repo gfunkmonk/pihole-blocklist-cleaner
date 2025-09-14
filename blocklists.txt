@@ -82,3 +82,5 @@ https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/genera
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://raw.githack.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+https://ente.dev/api/blocklist/google-amp-hosts
+https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
